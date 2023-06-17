@@ -1,4 +1,4 @@
-# srimantheeswaratemple.github.com
+
 <!DOCTYPE html>
 <html>
 <head>
